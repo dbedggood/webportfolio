@@ -1,32 +1,22 @@
 body {
+    padding-top: 10%;
     background-color: aliceblue;
-    padding-top: 20%;
+    overflow:hidden;
 }
 
 h1 {
-    font-size: 100px;
-}
-
-.center {
-    margin: auto;
-    width: 50%;
-    text-align: center;
-}
-
-.welcome {
-    font-size: 100px;
-    color: darkcyan;
-    font-family: 'Josefin Sans', sans-serif;
-
+    font-size: 500%;
 }
 
 .title {
-    display: flex;
-    padding: 0 5%;
+    margin: 0 auto;
+    color: darkcyan;
+    text-align: center;
     transition: transform .5s;
-    animation-timing-function: ease;
+    font-family: 'Josefin Sans', sans-serif;
+    display: block;
 }
 
 .title:hover {
-    transform: scale(1.5);
+    transform: scale(1.8);
 }
