@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg width="150mm" 
+  height="150mm" 
+  version="1.1" 
+  viewBox="0 0 140.78683 156.4084" 
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:cc="http://creativecommons.org/ns#" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<title>Logo</title>
+
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Logo</dc:title>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+
+<g transform="translate(-20 -52.589)">
+<circle cx="57.5" cy="159.5" r="37.5" stroke-width=".2625"/>
+<circle transform="scale(-1,1)" cx="-123.29" cy="159.42" r="37.5" fill="#fc0" stroke-width=".2625"/>
+<rect transform="matrix(.96574 -.2595 -.2595 -.96574 0 0)" x="36.279" y="-225.9" width="15" height="157.5" rx="5.2871e-15" fill="#fc0" stroke-width=".37391"/>
+<rect transform="rotate(195.04)" x="-138.34" y="-179.06" width="15" height="157.5" rx="5.2871e-15" stroke-width=".37391"/>
+<rect x="72.643" y="204.86" width="35.502" height="3.981" rx="1.1783e-14" fill="#fff" stroke="#fff" stroke-width=".26458"/>
+<rect x="52.976" y="52.808" width="74.836" height="3.867" rx="2.4838e-14" fill="#fff" stroke="#fff" stroke-width=".3786"/>
+</g>
+
+</svg>
