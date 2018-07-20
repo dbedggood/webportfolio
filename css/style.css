@@ -1,5 +1,5 @@
 body {
-    background-color: whitesmoke;
+    background-color: aliceblue;
     padding-top: 50px;
 }
 
@@ -15,13 +15,13 @@ h1 {
 
 .welcome {
     font-size: 100px;
-    color: goldenrod;
+    color: lightseagreen;
     font-family: 'Knewave', cursive;
 }
 
 .welcome:hover {
     font-size: 110px;
-    color: gold;
+    color: turquoise;
 }
 
 .logo {

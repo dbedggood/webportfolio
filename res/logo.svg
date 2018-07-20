@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="135.02mm" height="139.32mm" version="1.1" viewBox="0 0 126.72835 145.2763" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<svg 
+    width="79.375mm" 
+    height="94.493mm" 
+    version="1.1" 
+    viewBox="0 0 74.499688 98.530141" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:cc="http://creativecommons.org/ns#" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
 <defs>
-<clipPath id="a">
-<rect x="-13.2" y="5.7996" width="151.37" height="145.28" rx="1.2286e-14" fill="#f2f2f2" stroke="#fff" stroke-width=".27589"/>
+<clipPath id="d">
+<rect transform="rotate(-30)" x="-51.096" y="67.715" width="121.14" height="76.153" rx="1.4069e-14" fill="#0fc" style="paint-order:fill markers stroke"/>
+</clipPath>
+<linearGradient id="b" x1="189.02" x2="-13.98" y1="105.52" y2="-21.477" gradientUnits="userSpaceOnUse">
+<stop stop-color="#08a" offset="0"/>
+<stop stop-color="#08a" stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="a" x1="-173.27" x2="121.48" y1="147.66" y2="-10.971" gradientUnits="userSpaceOnUse">
+<stop stop-color="#006680" offset="0"/>
+<stop stop-color="#006680" stop-opacity="0" offset="1"/>
+</linearGradient>
+<clipPath id="c">
+<rect x="16.958" y="36.652" width="94.312" height="98.53" rx="1.4069e-14" fill="#fc0" style="paint-order:fill markers stroke"/>
 </clipPath>
 </defs>
+
 <title>Logo</title>
+
 <metadata>
 <rdf:RDF>
 <cc:Work rdf:about="">
@@ -15,12 +39,14 @@
 </cc:Work>
 </rdf:RDF>
 </metadata>
-<g transform="translate(.77996 -5.7996)">
-<g clip-path="url(#a)">
-<circle transform="scale(-1,1)" cx="-95.479" cy="106.69" r="37.5" fill="#fc0" stroke-width=".2625"/>
-<circle cx="29.689" cy="106.69" r="37.5" fill="#1a1a1a" stroke-width=".2625"/>
-<rect transform="matrix(.96553 -.26029 -.25871 -.96595 0 0)" x="23.118" y="-167.72" width="14.954" height="157.47" rx="5.2711e-15" fill="#fc0" stroke-width=".3733"/>
-<rect transform="rotate(195.04)" x="-97.728" y="-135.27" width="14.952" height="156.99" rx="5.27e-15" fill="#1a1a1a" stroke-width=".3727"/>
+
+<g transform="translate(-26.597 -36.101)" clip-path="url(#c)">
+<g transform="translate(.55177)" clip-path="url(#d)">
+<path transform="matrix(-.93725 0 0 1 6.7037 -1.4361)" d="m-59.001 81.11 2e-6 52.916-45.827-26.458z" fill="url(#a)" style="paint-order:fill markers stroke"/>
+<path transform="matrix(.93725 0 0 1 6.7037 2.9781)" d="m62.347 70.786 2e-6 52.916-45.827-26.458z" fill="url(#b)" style="paint-order:fill markers stroke"/>
+<rect x="62.003" y="17.71" width="8.0751" height="119.29" rx="1.4069e-14" fill="#4d4d4d" style="paint-order:fill markers stroke"/>
+<rect transform="scale(-1,1)" x="-65.139" y="23.62" width="8.0751" height="119.29" rx="1.4069e-14" fill="#00aad4" style="paint-order:fill markers stroke"/>
 </g>
 </g>
+
 </svg>
