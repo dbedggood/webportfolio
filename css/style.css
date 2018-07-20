@@ -1,10 +1,10 @@
 body {
     background-color: aliceblue;
-    padding-top: 50px;
+    padding-top: 20%;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 100px;
 }
 
 .center {
@@ -15,15 +15,18 @@ h1 {
 
 .welcome {
     font-size: 100px;
-    color: lightseagreen;
-    font-family: 'Knewave', cursive;
+    color: darkcyan;
+    font-family: 'Josefin Sans', sans-serif;
+
 }
 
-.welcome:hover {
-    font-size: 110px;
-    color: turquoise;
+.title {
+    display: flex;
+    padding: 0 5%;
+    transition: transform .5s;
+    animation-timing-function: ease;
 }
 
-.logo {
-    display: none;
+.title:hover {
+    transform: scale(1.5);
 }
