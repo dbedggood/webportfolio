@@ -21,3 +21,7 @@ h1 {
     font-size: 110px;
     color: gold;
 }
+
+.logo {
+    display: none;
+}
