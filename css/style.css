@@ -12,13 +12,21 @@ h1 {
     margin: 0 auto;
     color: darkcyan;
     text-align: center;
-    transition: transform .5s ease,
-                color 0.2s linear;
+    animation: appear 1s;
     font-family: 'Josefin Sans', sans-serif;
     display: block;
 }
 
-.title:hover {
-    transform: scale(1.8);
-    color: lightseagreen;
+.animation {
+    animation: bounce 0.3s 2 alternate;
+}
+
+@keyframes appear {
+    0% {transform: scale(0);}
+    100% {transform: scale(1);}
+  }
+
+@keyframes bounce {
+    0% {transform: scale(1);}
+    100% {transform: scale(2); color: lightseagreen;}
 }
