@@ -23,8 +23,8 @@ h1 {
 }
 
 #logo {
-    -webkit-animation: breathing 5s infinite alternate;
-    animation: breathing 5s infinite alternate;
+    -webkit-animation: breathing 3s infinite alternate;
+    animation: breathing 3s infinite alternate;
 }
 
 @-webkit-keyframes breathing {
@@ -33,7 +33,7 @@ h1 {
       transform: scale(1);
     }
   
-    25% {
+    10% {
       -webkit-transform: scale(1);
       transform: scale(1);
     }
@@ -51,7 +51,7 @@ h1 {
       transform: scale(1);
     }
   
-    25% {
+    10% {
       -webkit-transform: scale(1);
       -ms-transform: scale(1);
       transform: scale(1);
